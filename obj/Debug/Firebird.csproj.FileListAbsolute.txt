@@ -7,3 +7,12 @@ C:\Users\Владимир\source\repos\Firebird\bin\Debug\FirebirdSql.Data.Fireb
 C:\Users\Владимир\source\repos\Firebird\obj\Debug\Firebird.csproj.CopyComplete
 C:\Users\Владимир\source\repos\Firebird\obj\Debug\Firebird.exe
 C:\Users\Владимир\source\repos\Firebird\obj\Debug\Firebird.pdb
+C:\Users\Владимир\Source\Repos\VladimirSoldatov\Firebird_Reader\bin\Debug\Firebird.exe.config
+C:\Users\Владимир\Source\Repos\VladimirSoldatov\Firebird_Reader\bin\Debug\Firebird.exe
+C:\Users\Владимир\Source\Repos\VladimirSoldatov\Firebird_Reader\bin\Debug\Firebird.pdb
+C:\Users\Владимир\Source\Repos\VladimirSoldatov\Firebird_Reader\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\Владимир\Source\Repos\VladimirSoldatov\Firebird_Reader\obj\Debug\Firebird.csprojAssemblyReference.cache
+C:\Users\Владимир\Source\Repos\VladimirSoldatov\Firebird_Reader\obj\Debug\Firebird.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\Source\Repos\VladimirSoldatov\Firebird_Reader\obj\Debug\Firebird.csproj.CopyComplete
+C:\Users\Владимир\Source\Repos\VladimirSoldatov\Firebird_Reader\obj\Debug\Firebird.exe
+C:\Users\Владимир\Source\Repos\VladimirSoldatov\Firebird_Reader\obj\Debug\Firebird.pdb

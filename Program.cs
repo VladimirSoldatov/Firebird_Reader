@@ -6,11 +6,29 @@ using System.ComponentModel;
 using System.Data;
 using System.Data.Odbc;
 using System.Data.SqlClient;
+using System.IO;
 
 namespace TestingProgram
 {
     public partial class Firebird
     {
+        public void save_inf_file(string path, string text)
+        {
+            try
+            {
+                using (FileStream fstream = new FileStream($"{path}\\meetings.txt", FileMode.OpenOrCreate))
+                {
+                    byte[] array = System.Text.Encoding.Default.GetBytes(text);
+                    fstream.Write(array, 0, array.Length);
+                    Console.WriteLine("Расписание встреч сохранено");
+
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+        }
 
         static void Main(string[] args)
         {
